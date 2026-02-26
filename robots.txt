@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-json/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /es/feed/
+Disallow: /es/comments/
+Disallow: /es/wp-json/
+
+Sitemap: https://dls.barrdega.com/sitemap.xml

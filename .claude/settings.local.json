@@ -4,7 +4,11 @@
       "Bash(wget:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(done)",
+      "Bash(wc:*)",
+      "Bash(du:*)"
     ]
   }
 }
